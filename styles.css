@@ -1,10 +1,46 @@
-img {
-    width: 200px;
+style
+/*
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
 }
+*/
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+
+}
+style
+
+
+
+
+img {
+    width: 10px;
+    height: 20px;
+}
+
+
 
 body{
     text-align: center;
     font-family: "Arial";
     color: purple;
+    background: pink;
 
 }
